@@ -9,7 +9,7 @@ cd "D:\Microsimulation"
 *=====================   BEGIN   ===========================*
 *========================================================*
 
-* aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+* bbbbbbbbbbbbbbbbbbbbbbbbbb*
 
 *======================================*
 *======  1. THUE THU NHAP CA NHAN  =======*
