@@ -1,2 +1,2 @@
 # microsimulation
-code in R for the tax-benefit microsimulation
+code in Stata for the tax-benefit microsimulation
